@@ -3,6 +3,7 @@ body{
 }
 .text{
     margin-top: 5%;
+    margin-bottom: 5%;
     display: inline-block;
     position: relative;
     left: 5%;
@@ -19,18 +20,21 @@ body{
     left: 10%;
 }
 
-#equipe{
+.img_equipe{
     font-size: 25px;
-    margin-top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%)
+    
+}
+
+#equipe{
     position: relative;
-    left: 27%;
-    display: inline;
+    top: 30px;
 }
 
 #telemarketing{
-    display: inline-block;
     position: relative;
-    right: 9%;
-    top: 200px;
-
+    margin-top: 50px;
+    left: 20%;
 }
