@@ -1,0 +1,71 @@
+.header{
+    font: normal 150% Arial;
+    background: #3573ba ;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    border: none;
+
+    height: 50px;
+
+    z-index: 1;
+
+}
+
+a {
+    
+    text-decoration: none;
+    display: inline-block;
+
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    display: inline-block;
+    position: absolute;
+
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    margin-left: 20px;
+
+}
+
+.img_head{
+    padding: 0;
+    margin: 0;
+}
+
+#img_head{
+    width: 50px;
+}
+
+#contato, #pag_conta {
+    color: white;
+}
+
+
+#pag_conta:hover, #contato:hover{
+    color: aqua;
+}
+
+
+.footer{
+    position: fixed;
+    background: #3573ba;
+	color: #FFF;
+	border: none;
+    bottom: -15px;
+    left: 0px;
+	width: 100%;
+	
+}
+
+#footer_text{
+    text-align: center;
+    position: relative;
+    left: 0%;
+}

@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+.text{
+    margin-top: 5%;
+    display: inline-block;
+    position: relative;
+    left: 5%;
+}
+
+.text p{
+    font-size: 25px;
+    position: relative;
+    left: 7%;
+}
+.text ul{
+    font-size: 25px;
+    position: relative;
+    left: 10%;
+}
+
+#equipe{
+    font-size: 25px;
+    margin-top: 50%;
+    position: relative;
+    left: 27%;
+    display: inline;
+}
+
+#telemarketing{
+    display: inline-block;
+    position: relative;
+    right: 9%;
+    top: 200px;
+
+}
