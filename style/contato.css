@@ -20,13 +20,7 @@ body{
     left: 10%;
 }
 
-.img_equipe{
-    font-size: 25px;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%)
-    
-}
+
 
 #equipe{
     position: relative;
